@@ -92,3 +92,8 @@ button[type="submit"] {
 button[type="submit"]:hover {
     background-color: #555;
 }
+
+img {
+    width: 60px;
+    height: 60px;
+}
